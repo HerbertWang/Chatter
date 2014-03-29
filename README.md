@@ -1,3 +1,3 @@
 Chatter
 =======
-a simple chatter implementation
+a simple java-base socket chatter implementation
